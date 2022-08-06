@@ -57,7 +57,7 @@ ex: Gdrive to anonfiles:
 ex: TG file to WeTransfer:
 reply to a file with `/up #12`
 
-**Made by [bunny](https://t.me/pseudoboi) 🧪**
+**Made by [bunny](https://t.me/tsnmstream4u) 🧪**
 """
 if not os.path.exists('Downloads'):
     os.makedirs('Downloads')
