@@ -45,7 +45,7 @@ Upload your files to 10+ free hosting services.
 - Navigate into the `TokenGeneration` directory and follow the [readme.txt](https://github.com/bunnykek/MultiUpload/blob/main/TokenGeneration/readme.txt) for further procedure.
 - Deploy to heroku 
 #### Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bunnykek/MultiUpload)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Godofh3ell/MultiUpload)
 #### Bot commands:
 - `/help` - Helps
 - `/stats` - Shows the total downloaded cache size.
