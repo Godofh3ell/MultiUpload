@@ -3,8 +3,8 @@ from pyrogram import Client
 
 
 #get your api_id and api_hash from https://my.telegram.org/apps
-api_id = 12345  # your api_id
-api_hash = "0123456789abcdef0123456789abcdef" # your api_hash
+api_id = 1911873  # your api_id
+api_hash = "0ce89b116962bb612dd09fbbb9a9316d" # your api_hash
 
 
 async def main():
